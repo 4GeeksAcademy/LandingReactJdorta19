@@ -47,7 +47,7 @@ const Home = () => {
 					<div className="col-xl-3 col-md-4 col-lg-3">
 						<Card
 							imageUrl="https://www.biografiasyvidas.com/biografia/j/fotos/jackson_michael_1.jpg"
-							cardTitle="Bob Dylan"
+							cardTitle="Michael Jackson"
 							cardDescription="Michael Joseph Jackson was an American singer, songwriter, and dancer. Dubbed the 'King of Pop'."
 							buttonUrl="https://en.wikipedia.org/wiki/Michael_Jackson"
 							buttonLabel="Go to Wikipedia"
