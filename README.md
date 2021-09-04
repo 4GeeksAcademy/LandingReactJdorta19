@@ -1,4 +1,9 @@
 # Hello World with React boilerplate
+
+### Result of the excersice
+
+![Landing page with react](https://i.imgur.com/PwxDN94.jpg)
+
 <p>
   <a href="https://gitpod.io#https://github.com/4GeeksAcademy/react-hello.git"><img src="https://raw.githubusercontent.com/4GeeksAcademy/react-hello/master/open-in-gitpod.svg?sanitize=true" />
   </a>
