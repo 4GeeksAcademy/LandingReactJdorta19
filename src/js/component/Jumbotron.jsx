@@ -9,6 +9,8 @@ export const Jumbotron = props => {
 			<p className="lead">{props.description}</p>
 			<a
 				className="btn btn-primary btn-lg"
+				target="_blank"
+				rel="noreferrer"
 				href={props.buttonURL}
 				role="button">
 				{props.buttonLabel}
