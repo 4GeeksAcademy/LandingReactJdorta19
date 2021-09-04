@@ -6,6 +6,7 @@ import { Card } from "./Card.jsx";
 import { Navbar } from "./Navbar.jsx";
 
 //create your first component
+let year = new Date().getFullYear();
 const Home = () => {
 	return (
 		<div className="container-fluid p-0">
@@ -58,7 +59,7 @@ const Home = () => {
 			<footer className="footer py-3 bg-dark">
 				<div className="container">
 					<p className="text-white text-center">
-						Build with ❤️ using React.js
+						Builded with ❤️ using React.js - {year}
 					</p>
 				</div>
 			</footer>
